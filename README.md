@@ -1,6 +1,8 @@
 ## Hi there 👋
 My Holopin Badges
 [![An image of @ohmschrodinger's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/ohmschrodinger)](https://holopin.io/@ohmschrodinger)
+
+![](https://leetcard.jacoblin.cool/ohmschrodinger?ext=heatmap)
 <!--
 **ohmschrodinger/ohmschrodinger** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
